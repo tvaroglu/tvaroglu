@@ -6,7 +6,7 @@
 class TaylorVaroglu:
   def __init__(self):
     self.hobbies = ['snowboarding', 'fitness', 'guitar']
-    self.industry_targets = ['clean_energy', 'ed_tech', 'health_tech']
+    self.industry_targets = ['clean_energy', 'med_tech', 'ed_tech']
     self.contact_info = {
       email: 'taylor.varoglu@colorado.edu',
       linked_in: 'https://www.linkedin.com/in/taylorvaroglu/'
