@@ -28,7 +28,7 @@ class TaylorVaroglu:
 ### FRAMEWORKS
 <p>
   <img src="https://img.shields.io/badge/Ruby%20On%20Rails-b81818.svg?&style=flat&logo=rubyonrails&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python%20Django-1572B6.svg?&style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20.svg?&style=flat&logo=django&logoColor=white" />
 </p>
 
 ### TOOLS
