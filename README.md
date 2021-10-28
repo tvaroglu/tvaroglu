@@ -39,7 +39,7 @@ class TaylorVaroglu:
   <img src="https://img.shields.io/badge/Postman-FF6E4F.svg?&style=flat&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=flaste&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Heroku-430098.svg?&style=flaste&logo=heroku&logoColor=white" />
-  <img src="https://img.shields.io/badge/CircleCI-FFBC4F.svg?&style=flat&logo=circle&logoColor=white" />
+  <img src="https://img.shields.io/badge/CircleCI-181717.svg?&style=flat&logo=circle&logoColor=white" />
 </p>
 
 ### PROCESSES
