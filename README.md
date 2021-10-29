@@ -8,8 +8,8 @@ class TaylorVaroglu:
     self.hobbies = ['Snowboarding', 'Fitness', 'Guitar']
     self.industry_targets = ['Clean Energy', 'Med-Tech', 'Ed-Tech', 'Fintech']
     self.contact_info = {
-      email: 'taylor.varoglu@colorado.edu',
-      linked_in: 'https://www.linkedin.com/in/taylorvaroglu/'
+      'email': 'taylor.varoglu@colorado.edu',
+      'linked_in': 'https://www.linkedin.com/in/taylorvaroglu/'
     }
 ```
 
