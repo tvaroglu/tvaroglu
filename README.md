@@ -5,8 +5,8 @@
 ```python
 class TaylorVaroglu:
   def __init__(self):
-    self.hobbies = ['Snowboarding', 'Fitness', 'Guitar']
-    self.industry_targets = ['Clean Energy', 'Med-Tech', 'Ed-Tech', 'Fintech']
+    self.hobbies = ('Snowboarding', 'Fitness', 'Guitar')
+    self.industry_targets = ('Clean Energy', 'Med-Tech', 'Ed-Tech', 'Fintech')
     self.contact_info = {
       'Email': 'taylor.varoglu@colorado.edu',
       'LinkedIn': 'https://www.linkedin.com/in/taylorvaroglu/'
