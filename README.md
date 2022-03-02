@@ -6,7 +6,7 @@
 class TaylorVaroglu:
   def __init__(self):
     self.hobbies = ('Snowboarding', 'Fitness', 'Guitar')
-    self.industry_targets = ('Clean Energy', 'Med-Tech', 'Ed-Tech', 'Fintech')
+    self.industry_targets = ('Telecom', 'Clean Energy', 'MedTech', 'EdTech', 'FinTech')
     self.contact_info = {
       'Email': 'taylor.varoglu@colorado.edu',
       'LinkedIn': 'https://www.linkedin.com/in/taylorvaroglu/'
@@ -30,19 +30,21 @@ class TaylorVaroglu:
   <img src="https://img.shields.io/badge/Ruby%20On%20Rails-b81818.svg?&style=flat&logo=rubyonrails&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20.svg?&style=flat&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-181717.svg?&style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-00966c.svg?&style=flat&logo=fastapi&logoColor=white" />
 </p>
 
 ### TOOLS
 <p>
+  <img src="https://img.shields.io/badge/VsCode-1572B6.svg?&style=flaste&logo=visual-studio&logoColor=white" />  
   <img src="https://img.shields.io/badge/Atom-66595C.svg?&style=flaste&logo=atom&logoColor=white" />  
   <img src="https://img.shields.io/badge/Git-F05032.svg?&style=flaste&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=flaste&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6E4F.svg?&style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/CircleCI-181717.svg?&style=flat&logo=circle&logoColor=white" />
   </br>
+  <img src="https://img.shields.io/badge/Postman-FF6E4F.svg?&style=flat&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=flaste&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Sendgrid-4169E1.svg?&style=flat&logo=twilio&logoColor=white" />
   <img src="https://img.shields.io/badge/Heroku-430098.svg?&style=flaste&logo=heroku&logoColor=white" />
-  <img src="https://img.shields.io/badge/CircleCI-181717.svg?&style=flat&logo=circle&logoColor=white" />
 </p>
 
 ### PROCESSES
