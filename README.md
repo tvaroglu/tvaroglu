@@ -31,6 +31,7 @@ class TaylorVaroglu:
   <img src="https://img.shields.io/badge/Django-092E20.svg?&style=flat&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-181717.svg?&style=flat&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-00966c.svg?&style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/ExpressJs-0EB201.svg?&style=flat&logo=node.js&logoColor=white" />
 </p>
 
 ### TOOLS
