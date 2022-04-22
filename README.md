@@ -17,52 +17,55 @@ class TaylorVaroglu:
 ## SKILLS
 ### LANGUAGES
 <p>
-  <img src="https://img.shields.io/badge/Ruby-CC0000.svg?&style=flaste&logo=ruby&logoColor=white" />
-  <img src="https://img.shields.io/badge/ActiveRecord-CC0000.svg?&style=flaste&logo=rubyonrails&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-0EB201.svg?&style=flaste&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-0EB201.svg?&style=flaste&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-f74114.svg?&style=flaste&logo=JavaScript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-1572B6.svg?&style=flaste&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-CC0000.svg?&style=plastic&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/ActiveRecord-CC0000.svg?&style=plastic&logo=rubyonrails&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-0EB201.svg?&style=plastic&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-0EB201.svg?&style=plastic&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-f5ef42.svg?&style=plastic&logo=JavaScript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-1572B6.svg?&style=plastic&logo=python&logoColor=yellow" />
 </p>
 
 ### FRAMEWORKS
 <p>
-  <img src="https://img.shields.io/badge/Ruby%20On%20Rails-b81818.svg?&style=flat&logo=rubyonrails&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20.svg?&style=flat&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-181717.svg?&style=flat&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-00966c.svg?&style=flat&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/ExpressJs-0EB201.svg?&style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby%20on%20Rails-b81818.svg?&style=plastic&logo=rubyonrails&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20.svg?&style=plastic&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-181717.svg?&style=plastic&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-00966c.svg?&style=plastic&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/ExpressJs-0EB201.svg?&style=plastic&logo=node.js&logoColor=white" />
 </p>
 
 ### TOOLS
 <p>
-  <img src="https://img.shields.io/badge/VsCode-1572B6.svg?&style=flaste&logo=visual-studio&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Atom-66595C.svg?&style=flaste&logo=atom&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Git-F05032.svg?&style=flaste&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=flaste&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/CircleCI-181717.svg?&style=flat&logo=circle&logoColor=white" />
+  <img src="https://img.shields.io/badge/VsCode-1572B6.svg?&style=plastic&logo=visual-studio&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Atom-66595C.svg?&style=plastic&logo=atom&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Git-F05032.svg?&style=plastic&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=plastic&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-66595C.svg?&style=plastic&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/CircleCI-181717.svg?&style=plastic&logo=circle&logoColor=white" />
   </br>
-  <img src="https://img.shields.io/badge/Postman-FF6E4F.svg?&style=flat&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=flaste&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sendgrid-4169E1.svg?&style=flat&logo=twilio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Heroku-430098.svg?&style=flaste&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6E4F.svg?&style=plastic&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=plastic&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sendgrid-4169E1.svg?&style=plastic&logo=twilio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Heroku-430098.svg?&style=plastic&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF6E4F.svg?&style=plastic&logo=amazon&logoColor=white" />
 </p>
 
 ### PROCESSES
 <p>
-  <img src="https://img.shields.io/badge/OOP-b81818.svg?&style=flaste&logo=OOP&logoColor=white" />
-  <img src="https://img.shields.io/badge/TDD-b87818.svg?&style=flaste&logo=TDD&logoColor=white" />
-  <img src="https://img.shields.io/badge/MVC-b8b018.svg?&style=flaste&logo=MVC&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST-33b818.svg?&style=flaste&logo=REST&logoColor=white" />  
+  <img src="https://img.shields.io/badge/OOP-b81818.svg?&style=plastic&logo=OOP&logoColor=white" />
+  <img src="https://img.shields.io/badge/TDD-b87818.svg?&style=plastic&logo=TDD&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVC-b8b018.svg?&style=plastic&logo=MVC&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST-33b818.svg?&style=plastic&logo=REST&logoColor=white" />  
 </p>
 </br>
 
 [![Taylor's github stats](https://github-readme-stats.vercel.app/api?username=tvaroglu&count_private=true&include_all_commits=true&show_icons=true&theme=synthwave)](https://github.com/tvaroglu/)
 
-<details close>
-<summary>MOST USED LANGUAGES</summary>
+<!-- <details close> -->
+<!-- <summary>MOST USED LANGUAGES</summary> -->
 <br>
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvaroglu&theme=synthwave&layout=compact">
 <p/>
-</details>
+<!-- </details>
+ -->
