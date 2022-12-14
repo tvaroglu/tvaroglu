@@ -42,9 +42,10 @@ class TaylorVaroglu:
   <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=plastic&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab-66595C.svg?&style=plastic&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/CircleCI-181717.svg?&style=plastic&logo=circle&logoColor=white" />
-  </br>
   <img src="https://img.shields.io/badge/Postman-FF6E4F.svg?&style=plastic&logo=postman&logoColor=white" />
+  </br>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=plastic&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-4169E1.svg?&style=plastic&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Sendgrid-4169E1.svg?&style=plastic&logo=twilio&logoColor=white" />
   <img src="https://img.shields.io/badge/Heroku-430098.svg?&style=plastic&logo=heroku&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-FF6E4F.svg?&style=plastic&logo=amazon&logoColor=white" />
