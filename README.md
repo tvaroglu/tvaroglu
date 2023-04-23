@@ -17,20 +17,20 @@ class TaylorVaroglu:
 ## SKILLS
 ### LANGUAGES
 <p>
-  <img src="https://img.shields.io/badge/Ruby-CC0000.svg?&style=plastic&logo=ruby&logoColor=white" />
-  <img src="https://img.shields.io/badge/ActiveRecord-CC0000.svg?&style=plastic&logo=rubyonrails&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-1572B6.svg?&style=plastic&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/JavaScript-f5ef42.svg?&style=plastic&logo=JavaScript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-0EB201.svg?&style=plastic&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-0EB201.svg?&style=plastic&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-f5ef42.svg?&style=plastic&logo=JavaScript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-1572B6.svg?&style=plastic&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/Ruby-CC0000.svg?&style=plastic&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/ActiveRecord-CC0000.svg?&style=plastic&logo=rubyonrails&logoColor=white" />
 </p>
 
 ### FRAMEWORKS
 <p>
-  <img src="https://img.shields.io/badge/Ruby%20on%20Rails-b81818.svg?&style=plastic&logo=rubyonrails&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20.svg?&style=plastic&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-181717.svg?&style=plastic&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-00966c.svg?&style=plastic&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-181717.svg?&style=plastic&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20.svg?&style=plastic&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby%20on%20Rails-b81818.svg?&style=plastic&logo=rubyonrails&logoColor=white" />
   <img src="https://img.shields.io/badge/ExpressJs-0EB201.svg?&style=plastic&logo=node.js&logoColor=white" />
 </p>
 
