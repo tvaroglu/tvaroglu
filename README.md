@@ -19,14 +19,14 @@ class TaylorVaroglu:
 
   def introduce(self):
     print(f"Hello! My name is {self.full_name}.")
-    print(f"My top targets for new opportunities are within {str(self._industry_targets).lstrip('(').rstrip(')').replace(', ', ' or ')}.")
+    print(f"My top targets for new opportunities are within {', or '.join([i for i in self._industry_targets])}.")
     print(f"In my free time, I've recently started to learn {self._hobbies[0]}.")
     print(f"You can reach me at {self._contact_info['Email']} or {self._contact_info['LinkedIn']}")
 
 
 if __name__ == '__main__':
-  t = TaylorVaroglu()
-  t.introduce()
+  tv = TaylorVaroglu()
+  tv.introduce()
 ```
 
 
