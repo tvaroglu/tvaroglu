@@ -1,32 +1,36 @@
 ## Taylor Varoglu
 🙋🏻‍♂️ <br />
 
+Full-stack software engineer building production systems in Python, Ruby on Rails, React, AWS, and Heroku.
+
 *** *** ***
 ```python
 class TaylorVaroglu:
 
-  def __init__(self):
-    self._hobbies = ("MMA", "Snowboarding", "Fitness", "Guitar")
-    self._industry_targets = ("EdTech", "Clean Energy", "MedTech", "FinTech")
-    self._contact_info = {
-      "Email": "taylor.varoglu@gmail.com",
-      "LinkedIn": "https://www.linkedin.com/in/taylorvaroglu/"
-    }
+    def __init__(self):
+        self._languages = ("Python", "Ruby", "SQL", "JavaScript", "TypeScript")
+        self._interests = (
+            "Full-Stack Engineering",
+            "Cloud Infrastructure",
+            "Agentic AI",
+            "Distributed Systems",
+        )
+        self._hobbies = ("MMA", "Snowboarding", "Fitness", "Guitar")
+        self._contact_info = {
+            "Email": "taylor.varoglu@gmail.com",
+            "LinkedIn": "https://www.linkedin.com/in/taylorvaroglu/"
+        }
 
-  @property
-  def full_name(self):
-    return f"{self.__class__.__name__[:6]} {self.__class__.__name__[6:]}"
-
-  def introduce(self):
-    print(f"Hello! My name is {self.full_name}.")
-    print(f"My top targets for new opportunities are within {', or '.join([i for i in self._industry_targets])}.")
-    print(f"In my free time, I've recently started to learn {self._hobbies[0]}.")
-    print(f"You can reach me at {self._contact_info['Email']} or {self._contact_info['LinkedIn']}")
+    def introduce(self):
+        print("Hello! I like building systems I can understand, own, and improve.")
+        print(f"My professional experience includes {', '.join([i for i in self._interests])}.")
+        print(f"In my free time, I've recently started to learn {self._hobbies[0]}.")
+        print(f"You can reach me at {self._contact_info['Email']} or {self._contact_info['LinkedIn']}")
 
 
 if __name__ == '__main__':
-  tv = TaylorVaroglu()
-  tv.introduce()
+    tv = TaylorVaroglu()
+    tv.introduce()
 ```
 
 
@@ -38,7 +42,6 @@ if __name__ == '__main__':
   <img src="https://img.shields.io/badge/HTML5-0EB201.svg?&style=plastic&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-0EB201.svg?&style=plastic&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Ruby-CC0000.svg?&style=plastic&logo=ruby&logoColor=white" />
-  <img src="https://img.shields.io/badge/ActiveRecord-CC0000.svg?&style=plastic&logo=rubyonrails&logoColor=white" />
 </p>
 
 ### FRAMEWORKS
@@ -47,7 +50,7 @@ if __name__ == '__main__':
   <img src="https://img.shields.io/badge/Flask-181717.svg?&style=plastic&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20.svg?&style=plastic&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Ruby%20on%20Rails-b81818.svg?&style=plastic&logo=rubyonrails&logoColor=white" />
-  <img src="https://img.shields.io/badge/ExpressJs-0EB201.svg?&style=plastic&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.Js-0EB201.svg?&style=plastic&logo=node.js&logoColor=white" />
 </p>
 
 ### TOOLS
